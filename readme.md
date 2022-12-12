@@ -12,3 +12,4 @@ Step 3:
 kubectl apply -f deployment/deployment.yaml
 
 kubectl apply -f deployment/service.yaml
+-----------------------------------------------------------------------------------------
